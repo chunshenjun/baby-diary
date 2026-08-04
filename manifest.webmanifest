@@ -1,6 +1,6 @@
 {
-  "name": "宝宝成长日记",
-  "short_name": "成长日记",
+  "name": "元宝成长日记",
+  "short_name": "元宝",
   "description": "离线可用的宝宝成长记录本：奶量、辅食、补剂、护理、臭臭、早教、生长曲线、健康与相册",
   "start_url": "./index.html",
   "scope": "./",
