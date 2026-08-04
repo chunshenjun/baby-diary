@@ -1,0 +1,16 @@
+{
+  "name": "宝宝成长日记",
+  "short_name": "成长日记",
+  "description": "离线可用的宝宝成长记录本：奶量、辅食、补剂、护理、臭臭、早教、生长曲线、健康与相册",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F4EF",
+  "theme_color": "#8FA58A",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
